@@ -15,7 +15,3 @@
 local.properties
 
 # Project exclude paths
-/app/
-/gradle/
-/View/
-/ViewCompose/
